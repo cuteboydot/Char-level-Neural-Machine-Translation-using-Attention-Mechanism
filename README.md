@@ -27,7 +27,7 @@
 도식화 하면 다음과 같다.  
 <img src="./img/nmt_model.png" width="80%">  
   
-### 2. Test result 
+### 2. Test result  
 #### 2.1 실험 결과는 다음과 같다.  
 <img src="./img/nmt_test_result.png" width="110%">  
 #### 2.2 Training loss  
