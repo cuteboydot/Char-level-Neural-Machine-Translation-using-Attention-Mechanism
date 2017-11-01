@@ -35,4 +35,4 @@
 <img src="./img/nmt_loss.png" width="80%">  
   
 #### 2.3 Graph  
-<img src="./img/nmt_graph.png" width="70%">  
+<img src="./img/nmt_graph.png" width="55%">  
