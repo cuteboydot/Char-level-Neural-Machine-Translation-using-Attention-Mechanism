@@ -29,8 +29,8 @@
   
 ### 2. Test result 
 #### 2.1 실험 결과는 다음과 같다.  
-<img src="./img/nmt_test_result.png" width="80%">  
+<img src="./img/nmt_test_result.png" width="100%">  
 #### 2.2 Training loss  
 <img src="./img/nmt_loss.png" width="80%">  
 #### 2.3 Graph  
-<img src="./img/nmt_graph.png" width="80%">  
+<img src="./img/nmt_graph.png" width="70%">  
