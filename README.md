@@ -21,15 +21,15 @@
 15(긴급상황) : Your car has been towed.  유어 카 해즈 빈 토우드.  
 15(긴급상황) : My car was towed, I'd like to reclaim it.  마이 카 워즈 토우드, 아잇 라익 투 리클레임 잇.  
 
-**본 프로젝트는 영어 문장을 한글 독음으로 변환하는 내용을 다룬다.**  
-**기본 입출력 데이터는 word 단위가 아닌 char 단위로 embedding matrix를 사용한다.**  
+**본 프로젝트는 __영어 문장을 한글 독음으로 변환__하는 내용을 다룬다.**  
+**기본 입출력 데이터는 __word 단위가 아닌 char 단위로 embedding matrix__를 사용한다.**  
 성능 향상을 위해 Multicell RNN과 Attention Mechanism을 추가하였다.  
 도식화 하면 다음과 같다.  
 <img src="./img/nmt_model.png" width="80%">  
   
 ### 2. Test result 
 #### 2.1 실험 결과는 다음과 같다.  
-<img src="./img/nmt_test_result.png" width="100%">  
+<img src="./img/nmt_test_result.png" width="110%">  
 #### 2.2 Training loss  
 <img src="./img/nmt_loss.png" width="80%">  
 #### 2.3 Graph  
