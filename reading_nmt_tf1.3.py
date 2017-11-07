@@ -25,7 +25,7 @@ file_max_len = "./model/data_max_len.bin"
 dir_summary = "./model/summary/"
 
 pre_trained = 2
-my_device = "/gpu:2"
+my_device = "/cpu:0"
 
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"] = "2"
